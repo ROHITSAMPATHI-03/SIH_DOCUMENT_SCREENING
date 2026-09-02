@@ -1,0 +1,47 @@
+{
+    "document_type": "Passport",
+    "identity": {
+        "surname": "RAMADUGULA",
+        "given_name": "SITA MAHA LAKSHMIK",
+        "nationality": "INDIAN",
+        "gender": "F"
+    },
+    "passport": {
+        "passport_number": {
+            "value": "J8369854",
+            "source": "MRZ",
+            "mrz_verified": true,
+            "ocr_value": "J8369854",
+            "sources_match": true
+        },
+        "date_of_birth": "23/09/1959",
+        "date_of_expiry": "10/10/2021"
+    },
+    "place_information": {
+        "place_of_birth": null,
+        "place_of_issue": null
+    },
+    "date_information": {
+        "date_of_issue": null
+    },
+    "mrz_verification": {
+        "mrz_type": "P<",
+        "valid_score": 81,
+        "valid_passport_number": true,
+        "valid_date_of_birth": true,
+        "valid_date_of_expiry": true
+    },
+    "consistency_check": {
+        "passport_number_match": true,
+        "surname_match": true,
+        "given_name_match": null,
+        "nationality_match": true,
+        "gender_match": true,
+        "date_of_birth_match": true,
+        "date_of_expiry_match": true
+    },
+    "confidence": {
+        "score": 92,
+        "level": "HIGH"
+    }
+}

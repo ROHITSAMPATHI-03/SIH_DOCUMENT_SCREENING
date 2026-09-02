@@ -1,0 +1,17 @@
+{
+    "document_type": "Passport",
+    "mrz_type": "P<",
+    "passport_number": "J8369854<",
+    "surname": "RAMADUGULA",
+    "given_name": "SITA MAHA LAKSHMIK",
+    "nationality": "IND",
+    "date_of_birth": "590923",
+    "date_of_birth_formatted": "23/09/1959",
+    "gender": "F",
+    "date_of_expiry": "211010",
+    "date_of_expiry_formatted": "10/10/2021",
+    "mrz_valid_score": 81,
+    "valid_passport_number": true,
+    "valid_date_of_birth": true,
+    "valid_date_of_expiry": true
+}
