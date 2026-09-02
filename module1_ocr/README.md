@@ -10,7 +10,7 @@ Module 1 is the foundational computer vision and intelligence layer of the **AI-
 
 ---
 
-## 🏗️ Architecture & Pipeline Flow
+##  Architecture & Pipeline Flow
 
 ```
                          DOCUMENT IMAGE
@@ -75,7 +75,7 @@ Module 1 is the foundational computer vision and intelligence layer of the **AI-
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 module1_ocr/
@@ -111,7 +111,7 @@ module1_ocr/
 
 ---
 
-## ⚡ Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 - **Python 3.10+** (tested on Python 3.12)
@@ -132,7 +132,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🖥️ Usage & Commands
+##  Usage & Commands
 
 ### 1. Process a Single Document
 ```bash
@@ -222,9 +222,3 @@ python test_pipeline.py
 
 ---
 
-## 🏆 Hackathon Defense Highlights
-
-1. **ICAO 9303 Compliance:** Checksum validation ensures fraudulent numbers fail verification before reaching databases.
-2. **Noise Resilience:** 4-pass OCR across binarization techniques retrieves text from faded or poor quality scans.
-3. **Automated Quality & Deskew:** Prevents garbage-in/garbage-out by detecting blur and correcting rotation before processing.
-4. **Seamless Team Integration:** Modular architecture with both CLI and REST API allows Modules 2, 3, and 4 to consume results immediately.
